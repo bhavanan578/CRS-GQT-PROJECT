@@ -1,0 +1,5 @@
+package com.gqt.crs.entity;
+
+public class Student {
+
+}
